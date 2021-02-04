@@ -1,0 +1,6 @@
+/*
+	LIKE 연산자 사용
+*/
+SELECT *
+	FROM EMP
+WHERE ENAME  LIKE '%S';
